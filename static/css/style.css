@@ -1,0 +1,34 @@
+.bg-nav{
+
+    background: #BBD2C5;
+    background: -webkit-linear-gradient(to right, #536976, #BBD2C5);
+    background: linear-gradient(to right, #536976, #BBD2C5);
+    
+    
+}
+
+.mt-100{
+    margin-top: 100px;
+}
+
+.word{
+    text-align: center !important;
+    font-size: 2rem !important;
+}
+
+
+.header{
+    margin-bottom: 25px !important;
+}
+
+.btn{
+    width:120px;
+}
+
+.textcolour{
+    text-align: center !important;
+    font-size: 2rem !important;
+}
+
+.homenavitems{
+    font-size: 20px !important;}
